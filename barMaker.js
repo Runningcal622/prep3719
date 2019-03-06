@@ -92,7 +92,7 @@ var makeChart = function(countryData)
         .attr("font-size","11px")
         .style("width",barWidth)
         .style("fill","white");
-    svg.style("margin-top","20px")
+    svg.style("margin-top","50px")
       .style("float","left");
 
 
